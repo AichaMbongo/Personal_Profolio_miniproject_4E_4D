@@ -77,9 +77,8 @@ ________________________________________
 ________________________________________
 
 ### ✨ Optional Extras (Bonus Points)
-
-- Add a RELEASE_NOTES.md for version v1.0  
-- Add screenshots of your site in README.md  
+ 
+ - Add screenshots of your site in README.md  
 - Write a REFLECTION.md (what you learned)  
 - Customize CSS styles creatively  
 - Use at least one image/icon in your portfolio  
